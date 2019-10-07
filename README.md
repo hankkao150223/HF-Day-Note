@@ -1,5 +1,7 @@
 # HF-Day-Note
 
+- [要離職囉, 交接清單](./交接清單.md)
+
 spreadsheets
 
 spread
